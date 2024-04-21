@@ -10,6 +10,12 @@ Only using Python, this software will take a user's answers to some questions an
 
 ## Version History 
 
+**Version 1.0**  
+*4/21/2024*  
+* Program is done (for now).
+* I noticed that the decimal places, when the dollar amounts end in ".00", will only display one "0" instead of two (at least, in the Python IDLE); I may need to look into that further.
+* Other than that, the math seems to be accurate.
+
 **Version 0.1**  
 *4/20/2024*  
 * This program has just been started.
